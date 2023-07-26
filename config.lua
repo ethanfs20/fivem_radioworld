@@ -1,3 +1,6 @@
+-- Radion Stations: https://github.com/scripthookvdotnet/scripthookvdotnet/blob/959432f4fcc046cc50f36b0ecd84711403d54e15/source/scripting_v3/GTA/Game.cs#L18-L46
+-- Full Emitters List: https://wiki.rage.mp/index.php?title=Audio:Static_Emitters
+
 Config = {}
 
 Config.Emitters = {
