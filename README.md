@@ -28,7 +28,7 @@ For any questions, suggestions, or support, you can join our Discord server:
 ## Credits
 
 Author: Ethan4t0r
-GitHub Repository: https://github.com/ethanfs20/fivem_radioworld/main/README.md
+GitHub Repository: https://github.com/ethanfs20/fivem_radioworld/blob/main/README.md
 
 A special thanks to the FiveM community for the support and feedback!
 
